@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/convo-chat-app/static/css/main.1af08fee.chunk.css",
+    "main.js": "/convo-chat-app/static/js/main.d4c9f811.chunk.js",
+    "main.js.map": "/convo-chat-app/static/js/main.d4c9f811.chunk.js.map",
+    "runtime-main.js": "/convo-chat-app/static/js/runtime-main.eaf8b7f7.js",
+    "runtime-main.js.map": "/convo-chat-app/static/js/runtime-main.eaf8b7f7.js.map",
+    "static/css/2.f83b9687.chunk.css": "/convo-chat-app/static/css/2.f83b9687.chunk.css",
+    "static/js/2.5de89fad.chunk.js": "/convo-chat-app/static/js/2.5de89fad.chunk.js",
+    "static/js/2.5de89fad.chunk.js.map": "/convo-chat-app/static/js/2.5de89fad.chunk.js.map",
+    "index.html": "/convo-chat-app/index.html",
+    "static/css/2.f83b9687.chunk.css.map": "/convo-chat-app/static/css/2.f83b9687.chunk.css.map",
+    "static/css/main.1af08fee.chunk.css.map": "/convo-chat-app/static/css/main.1af08fee.chunk.css.map",
+    "static/js/2.5de89fad.chunk.js.LICENSE.txt": "/convo-chat-app/static/js/2.5de89fad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaf8b7f7.js",
+    "static/css/2.f83b9687.chunk.css",
+    "static/js/2.5de89fad.chunk.js",
+    "static/css/main.1af08fee.chunk.css",
+    "static/js/main.d4c9f811.chunk.js"
+  ]
+}
